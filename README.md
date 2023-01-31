@@ -1,2 +1,2 @@
 # Basic SPI example
-One master and one slave 
+One master device communicating to one slave 
